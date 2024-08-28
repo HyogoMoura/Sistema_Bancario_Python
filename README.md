@@ -1,7 +1,7 @@
 # Sistema_Bancario_Python
 Repositório para upload de treinamento de implementações em python.
 
-## ------------------------------------------------V1----------------------------------------
+## --------------------------------------------V1----------------------------------------
 ## Objetivo V1
 
 Cria sistema bancario com as operações: Sacar, Depositar, Extrato
