@@ -4,7 +4,7 @@ Repositório para upload de treinamento de implementações em python.
 ## ------------------------------------------------V1----------------------------------------
 ## Objetivo V1
 
-Cria sistema bancario coms as operações: Sacar, Depositar, Extrato
+Cria sistema bancario com as operações: Sacar, Depositar, Extrato
 
 ## Condições de contorno V1:
 1. **Sistema para monousuário**
